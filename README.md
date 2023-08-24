@@ -1,8 +1,8 @@
 
 
-<img alt="coding" align="center"  src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" >
 <h1 align="center">Hi 👋, I'm Manish Jha</h1>
 <h3 align="center">A MERN Enthusiast, Frontend Virtuoso, and Blockchain Visionary</h3>
+<img alt="coding" align="center"  src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" >
 
 
 
