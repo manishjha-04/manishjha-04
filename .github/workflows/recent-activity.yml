@@ -1,20 +1,20 @@
-name: Recent Activity
+name: Update README
 
 on:
   schedule:
-    # Runs every 24 hours
-    - cron: "0 0 * * *"
+    - cron: '*/30 * * * *' # Update every 30 minutes
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  activity:
     name: Update README with recent activity
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@v1.1.4
-        with:
-          # GitHub token, automatically provided by GitHub Secrets
-          # Read more about it here: https://github.com/actions/checkout
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          MAX_LINES: 5  # Number of recent activities to show
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Add activity to readme
+        uses: Readme-Workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
