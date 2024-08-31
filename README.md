@@ -31,11 +31,6 @@ A full-stack developer from India, comfortable with any tech stack—because for
   - Awarded for the best educational hack internationally.
   - Developed a solution that reduced forgery by 80%.
 
-## 📊 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 
 ## 📫 How to Reach Me
 
