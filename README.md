@@ -36,7 +36,7 @@ A full-stack developer from India, comfortable with any tech stack—because for
 
 - **Email:** [stayconnectedwithmanish@gmail.com](mailto:stayconnectedwithmanish@gmail.com)
 - **LinkedIn:** [Manish Jha](https://linkedin.com/in/manish-jha04)
-- **Twitter:** [@manishjha-04](https://twitter.com/manishjha-04)
+- **Twitter:** [@manishjha-04](https://x.com/manishjha-04)
 
 ## 💬 Let's Connect!
 
