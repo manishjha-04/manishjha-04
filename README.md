@@ -25,7 +25,7 @@ A full-stack developer from India, comfortable with any tech stack—because for
 
 ## 📜 Certifications and Achievements
 
-- **Certified React Developer:** Ranked in the Top 10% globally by TestDome.
+- **Certified React Developer:** Ranked in the Top 10% globally.
 - **SQL Expert:** Recognized by Coding Ninjas.
 - **Winner, Dev Global Hackathon:**
   - Awarded for the best educational hack internationally.
