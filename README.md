@@ -6,7 +6,7 @@
 A full-stack developer from India, comfortable with any tech stack—because for me, development is love, a buffet, and I’m here to taste it all! . Let’s turn the ordinary into the extraordinary.
 
 
-- 🧑‍💻 **Current Role:** Google Summer of Code (GSoC) Contributor at OpenELIS.
+- 🧑‍💻 **Experience:** Google Summer of Code (GSoC) Contributor at OpenELIS.
 - 🌱 **Learning:** Advanced React, Scalable Backend Solutions, and Web3 Technologies
 - 💡 **Interests:** JavaScript, React.js, Node.js, Web3, Blockchain, Codemods, E2E Testing
 - 🛠️ **Looking to collaborate on:** Open Source Projects, Codemods, Full-Stack Development
